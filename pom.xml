@@ -12,7 +12,7 @@
         <module>j2ee-simple</module>
         <module>quickstart</module>
         <module>mojo</module>
-        <module>sit</module>
+        <module>site</module>
         <module>site-simple</module>
         <module>webapp</module>
         <module>profiles</module>
